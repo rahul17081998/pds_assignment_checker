@@ -50,7 +50,7 @@ def init_checker(a, q):
     ## Check if PDS folder exists in the current directory
     ## Current Dir = {HOME}/{BASE}{a}/{Q_BASE}{q}
     try:
-        home = next(Path.cwd().glob("PDS*/"))
+        home = next(Path.cwd().glob("ALGOLB*/"))
     ## IF PDS Folder not found then call get assignments
     except StopIteration as si:
         print("PDS Directory not found,")
@@ -123,7 +123,7 @@ def pds_checker(a, q):
     print(f" Working for {report_path} ".center(100, "*"))
     ctr = 0
 
-    for std_roll, std_name in students:
+    for std_roll, std_name,std_id in students:
         # std_name=n[std_roll]
         ctr += 1
         if std_roll in done:
@@ -183,8 +183,8 @@ def pds_checker(a, q):
                             print(f"Input: {test}")
                             print(f"Desired Output: \n{test_comment}")
                             print(f"Program Output:")
-                            system(f"echo {test} | a.exe")
-
+                            test=test.replace(BR,'\\n')
+                            system(f'printf "{test}" | a.exe')
                             ## HACK: START: Support to open out file in case an external file is being created
                             if Path("outfile.txt").exists():
                                 system("outfile.txt")

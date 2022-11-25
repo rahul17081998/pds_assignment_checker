@@ -1,0 +1,2 @@
+30;Implemented Hash table
+-5;Comments missing, logic hard to understand

@@ -1,90 +1,168 @@
-ANMOL MISHRA;14655;21EC30060
-Abani kumar Jena;14919;21ME10100
-Adipta Halder;14760;21EC30003
-Aditya Kumar;14819;21ME10005
-Amey Raorane;15361;21HS20001
-Anfal S;14804;21AE10003
-Anindita Malviya;14721;21MI33004
-Anju Duhan;14324;21CE30007
-Ankit Yadav;14658;21EE30005
-Ankit kumar;14780;21MI10010
-Aryan Kubal;14799;21MT30012
-Atishay Jain;14767;21CE10012
-Avinash Meena;14796;21ME30015
-Ayush Kumar Madhu;14783;21AG30007
-BHUPESH VERMA;14785;21GG10010
-Bharat kabra;14645;21CH10015
-Biswaranjan Samal;14649;21IM10011
-Chetna payal;14706;21CS10019
-Divya Raj;14648;21MT10017
-Gargi Gangwar;14806;21MF10017
-Gulshan Kumar Harijan;15351;21AG10014
-Harish Takri;14692;21CY10016
-Harsh Khandeparkar;14659;21EC30023
-Harsh Raj;14664;21IE10017
-Harsh Somani;14812;21EC10031
-Harshit Raj;14647;21CH30015
-Hema Sai Sagar  Banisetty;14797;21EC10011
-Indra Kumar Gupta;14679;21AE10043
-Jit Mandal;14907;21ME30034
-Krish Agarwal;14674;21NA10018
-Kshitij Banerjee;14803;21CH10035
-Kshitij Das;14673;21CS10039
-Kunal Bhure;14651;21ME10043
-Lavanya Birru;14781;21HS10018
-Lohitava Ghosh;14662;21AE10023
-Maanas S L;14784;21CH10055
-Madhumitha Katreddy;15364;20AG10017
-Malothro Mena;14650;21GG20002
-Muhib Ali Shaikh;14801;21EE10064
-Naveen  Islavath;14808;21IM30007
-Nidhi Nandwani;14792;21MA10036
-Pasupulety Chethan Krishna Venkat;14660;21CS30036
-Pranjal Singh;14670;21EC10051
-Pushkaraj Jagtap;14757;21MF3IM12
-RAKESH TARENDRA;15349;21MT30031
-Raviteja  Chityala;14766;21CS30016
-Rishabh Bhardwaj;14687;21CE10052
-Rishi Dhoble;14691;21ME30053
-Rohit Gami;14710;21ME10062
-SENJUTI GHOSH;14742;21CY10036
-SHRITIK JAISWAL;14668;21BT30026
-SN Bibhudutta;14667;21EC30043
-SREEKAR BASA;14646;21EE10024
-Sadique Amin;14759;21CE30027
-Sarthak Gupta;14810;21IM10030
-Satyajit Behera;14640;21AG10034
-Shashwata Roy;14661;21MA10055
-Shivakumar Kethavath;14847;21MI31013
-Shivam  Sourav;14805;21CS10059
-Shramitha Boligarla;14782;21ME10024
-Shreya Reddy Kondakindi;14755;21CE10032
-Shruti Srivastava;15012;21EE30025
-Shubham  Warkad;14671;21ME30072
-Shubham Singh;14676;21EX10032
-Shubhrashayak Sarkar;14657;21NA30029
-Soumartya Mallick;14693;21IE10036
-Soumojit Bhattacharya;14778;21EC10071
-Souvik Mandal;14690;21MF10036
-Subhajit Bhaumik;14744;21ME10081
-Sumedh  Deshkar;14769;21MI33023
-Sumit Chouhan;15355;20IE10039
-Susank Chigilipalli;14768;21CE10072
-Swarnava Das;14762;21NA10037
-Tanya Jain;15352;21MI10048
-Tejaarka P;14703;21MT10036
-Thiruvignesh R S;14798;21BT10022
-Thota  Kesava Chandra;14750;21CS30056
-Tripti Roy;14686;21IM30026
-Tushar  Kumar;14680;21CH30035
-Vaibhav Adicherla;14772;21BT10002
-Vigneswaran S;14669;21AE30020
-Vishwajeet Singh Solanki;14688;21CS10079
-Vyshnavi Lagudu;14763;21EE10044
-bimal gayali;14802;21MA10017
-hemanth gunnu;14790;21BT30006
-janak patel;15348;21AG30027
-pavan vankudoth;14807;21CH10075
-shiva kethavath;15353;21MI10029
-shivam ratne;15365;21PH10033
-subhash kumar ola;14727;21MT10055
+10205;cherry taly;19IE10013
+10993;Aseem Anand;
+12228;Sarnavo Sarkar;19MT10037
+13465;Sajida kousar Shaik;
+13493;Md Ashik Khan;21CS60A02
+13603;ABIR ROY;21EC10003
+13607;ARYAN BIBHUTI;21CS30008
+13615;Harsh Vardhan;21CS10031
+13620;Aditya Patankar;21CS10051
+13629;Ashutosh Golande;21CS10011
+13633;Shivang Agrawal;21CS30048
+13652;VARRI HASINI;21CS10075
+13670;Revanth Kandula;21CS10035
+13673;TIRZAH GRACE YARRANNA;21CS10071
+13682;Devichand Budagam;21CS30012
+13685;Manaswi Raj;
+13687;Bibhudatta Bhanja;
+13713;Navaneeth Shaji;21CS30032
+13714;Hrushikesh Reddy;21CS30028
+13718;Roddur Majumdar;21CS10055
+13727;Arnav Pati;21CS10010
+13736;Bhavani Kalal;21CS30027
+13753;Shashwat Kumar;21CS30047
+13764;Harsh Sharma;21CS10030
+13774;Gnana Shekar Pola;21CS10052
+13780;Anwesha Das;21CS30007
+13782;KAUSHAL KUMAR SINGH;21CS30029
+13788;Ashwin Prasanth;21CS30009
+13807;sneha yadav;
+13825;Anish Datta;21CS30006
+13830;Aritra Chakraborty;21CS10009
+13831;Snigdha Biswas;21CS30049
+13837;sai charan pabbuleti;
+13852;Harsh Khasbage;
+13863;Jay Priyadarshi;
+13877;SHAHNAWAZ HUSSAIN Shahnu;
+13887;Venkatsai Mokshith Parvathaneni;21CS10050
+13902;Sreejita Saha;21CS30052
+13920;Atul Jayesh;21CS10012
+13927;Ishan Raj;21CS10032
+13931;Aviral Pandey;21ME10017
+13961;Tohuto Sema;21CS10072
+13985;Jayshri Bej;21CS10034
+14009;Somya Kumar;21CS30050
+14013;Dhyana Vardhan;21CS30030
+14015;Anuron Chakraborty;21CS10085
+14027;Priyanshu Kumar;21CS10053
+14098;Ishan Ray;21CS10033
+14100;SaiVarshith Valugula;21CS10073
+14102;KARTHIK BANOTHU;21CS10013
+14160;Venkatesh N;21CS10076
+14169;Ifrah Khan;21CS10036
+14170;Sanchit Yewale;21CS10056
+14179;Sonune Pratik Ganesh;21CS30051
+14180;Sumanth Tadigoppala;21CS30053
+14184;Niranjana Reddy B S;21CS30033
+14185;Bratin Mondal;21CS10016
+14219;Mihir Mallick;21CS30031
+14222;Bannuru Rohit Kumar Reddy;21CS30011
+14223;Ranjim Prabal Das;21CS10054
+14230;Varnit Shukla;21CS10074
+14241;Barun Parua;21CS10014
+14301;Tanishq Choudhary;21CS10070
+14366;Banavath Akash Banavath;21CS30010
+14522;Karthik Reddy Voddula;21CS30058
+14526;SAMPREETH R S;21CS30038
+14546;Devashri Deulkar;21CS10021
+14552;Dhruv Agja;21CS10022
+14553;Yash Kumar;21CS30059
+14562;Marla Mayukha;21CS10041
+14566;Sai Mallikarjun Galipelli;21CS30019
+14570;Sukhomay Patra;21CS30066
+14589;Harshith Chowdary Meduri;21CS10042
+14590;Raj Parikh;21CS30039
+14596;Adarsh Patel;21CS10002
+14601;Paramananda Bhaskar;21CS30035
+14602;Chinmay Bhusari;21CS30015
+14605;Ishaan Sinha;21CS30064
+14624;Varshith Reddy Vonteri;21CS10081
+14634;AMRUTHAVARSHINI TELU;21CS30055
+14636;Karthikeya S M Yelisetty;21CS30060
+14641;Gautam Kumar;21CS30020
+14660;Pasupulety Chethan Krishna Venkat;21CS30036
+14673;Kshitij Das;21CS10039
+14688;Vishwajeet Singh Solanki;21CS10079
+14689;Abhishek Singh Maurya;21CS10001
+14706;Chetna payal;21CS10019
+14720;Tapaswini Cherukuri;21CS10018
+14734;Yash Sirvi;21CS10083
+14750;Thota Kesava Chandra;21CS30056
+14752;Sathya Singabattu;21CS10061
+14766;Raviteja Chityala;21CS30016
+14805;Shivam Sourav;21CS10059
+14837;DEBADITYA DAS;21CS10090
+14853;Yasaswani Rongali;21CS10082
+14859;Soukhin Nayek;21CS10062
+14870;Sarika Bishnoi;21CS10058
+14896;VISHV MAGARVADIA;21CS10078
+14901;Anit Mangal;21CS10005
+14916;Ajay kumar dhakar;21CS30002
+14925;Charu Vikram Subhash Gunda;21CS30022
+14940;Suchi Sharma;21CS10065
+14956;Ritesah Madhunala;21CS30042
+14966;Sanathan Srikar Mutya Venkata;
+15023;Soumik Mandal;21CS10063
+15053;Hashmitha Dumpala;21CS10023
+15056;Abhiram Amgothu;21cs10003
+15059;Rajarshi Mondal;
+15086;om sadhwani;21CS10046
+15115;Akshat Ayush Modi;21CS30003
+15123;Utsav Dhanuka;21IE10042
+15127;Swapnil Ghosh;21EC10078
+15130;Harsh Sharma;21CS30023
+15136;Ronit Nanwani;21CS30043
+15140;Thoyajakshi Gorantla;21CS10026
+15145;sukanth E;21CS10066
+15154;Parthiv Reddy anuguru;21CS10006
+15165;Y B V Anjaneya Choda;21CS10020
+15174;Aditya Chandrikapure;21CS30001
+15187;Ratan Junior;21CS30041
+15217;Anirudh M;21CS10004
+15231;Sourodeep Datta;21CS10064
+15235;Nitish kumar Singh;21CS10044
+15244;Tejas Kumar Gujjala;21CS30021
+15270;Harshitha Gaddam;21CS10024
+15291;Pavan Kumar Simma;21CS10060
+15298;Soumojit Chatterjee;21CS30062
+15315;Deepraj Das;21CS30017
+15320;Vivek Ramavath;21CS10080
+15321;Vaishnovi Arun;
+15324;Nihith Maddi;21CS10040
+15328;Datta Pattamatta;21CS30037
+15350;Bhavana sri harshitha Devara;21CS30018
+15375;Omair Alam;21CS10047
+15483;Sanskar Miittal;21CS10057
+15485;Prasanna Paithankar;
+15486;Smarak Kanjilal;21CS30061
+15487;Dhruv Sarkar;
+15488;vinayak @21CS10007;21CS10007
+15489;Tanishq Prasad;21CS30054
+15490;Owais Ahmad Lone;21CS10048
+15491;Swarnabh Mandal;21CS10068
+15492;21cs10027 satwik gottipalli;
+15493;Praneeth Raj Kotipalli;21CS10038
+15494;Naga Venkata Varsha Chepuri;21CS30014
+15495;Apoorv Kumar;21CS10008
+15496;Sai Hari Krishna Imadabathini;21CS30025
+15497;Krish Khimasia;
+15498;Shamitha Ambati;21CS30004
+15499;siva sai yeswanth parala;21CS30034
+15500;Swadhin majhi;
+15501;Jayanth Chapp;21CS10017
+15502;Vinayak Gupta;
+15503;Varun Nuthakki;21CS10045
+15504;Hunny chandra;
+15506;SAKET JHA;21CS30044
+15507;vikhyath gummadi;
+15509;yaswanth angothu;
+15522;Sakshi Agarwal;
+9243;Divyangna Sharma;19CY20015
+9295;Sridevika Chebrolu;19EC10017
+9349;Mayukh Raychaudhuri;19MT100024
+9396;Lokesh karri;19ee10032
+9419;Kumar Rishav;19mt30011
+9552;Rekha Lokesh;30
+9771;Naga Surya Prathik Vunnava;19EC10073
+9782;Tanwir Singh;
+9875;sravya chitneedi;

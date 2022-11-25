@@ -128,7 +128,7 @@ def get_a_ql_from_user(q=True):
 
     ll = Path(A_PATH_.format(a=a)).glob(f"{Q_BASE}*")
     all_q = " ".join([i.name.removeprefix(Q_BASE) for i in ll] if ll else 0)
-    ql = def_input(f"Please enter the {Q_BASE} number", all_q)
+    ql = def_input(f"Please enter the {Q_BASE} number", '1')
     return a, ql
 
 
@@ -140,7 +140,7 @@ def pull(path, DELIM=DELIM):
     ]
 
 
-def push(path, text, attr="r+", DELIM=DELIM):
+def push(path, text, attr="a+", DELIM=DELIM):
     with Path(path).open(attr) as f:
         # if type(text)
         x=f.read()
@@ -267,7 +267,7 @@ def get_students(path=None, only_roll=0, only_names=0, sort_by_name=False):
 
     std = []
     if path is None:
-        path = f"{VAR}/my_students.txt"
+        path = f"{VAR}/mapping.txt"
     std = pull(path)
     if sort_by_name:
         std.sort(key=lambda x: x[1].lower())

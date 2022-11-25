@@ -1,4 +1,5 @@
 ### TODO: make this a class
+from selenium.webdriver.common.by import By
 
 from lib.pds_file_op import get_students, printf, create_base_folders, push, unzip
 from re import findall
@@ -18,6 +19,20 @@ from lib.pds_globals import (
 from lib.pds_file_op import print
 ## SELENIUM FUNCTIONS
 
+from urllib.parse import urlparse,parse_qs
+
+def getqs(sel,val=''):
+    q=parse_qs(urlparse(sel.get_attribute("href")).query)
+    if val:
+        return q[val][0].strip()
+    return q
+
+
+
+def get_sel_items(driver,val,a='',t='userenrolment',d='div'):
+    return driver.find_elements(by=By.XPATH,
+        value=f'//table[contains(concat(" ",normalize-space(@class)," ")," {t} ")]//{d}[contains(concat(" ",normalize-space(@class)," ")," {val} ")]{a}'
+        )
 
 def driver_get_from_topic(driver, topic_id, action="grading"):
     driver.get(
@@ -100,7 +115,7 @@ def init_selenium(def_dwnld_dir=None):
 
     options = webdriver.ChromeOptions()
     options.add_argument("--no-sandbox")
-    options.headless = True
+    # options.headless = True
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1366,768")
     # options.add_experimental_option("useAutomationExtension", False)
