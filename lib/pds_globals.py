@@ -16,7 +16,7 @@ DELIM = ";"
 BR = "~~"
 
 MOODLE_A_NAME_ = "Lab Test {a} - Question "
-MOODLE_A_NAME_ = "Assignment {a} - Question "  # COMMENT THIS FOR LT
+MOODLE_A_NAME_ = "Assignment {a}: Question "  # COMMENT THIS FOR LT
 MOODLE_A_Q_NAME_ = MOODLE_A_NAME_ + "{q}"
 
 # Base is the assignment type
@@ -65,7 +65,7 @@ A_Q_REPORT_ = A_Q_ + "_report.csv"
 A_Q_REPORT_PATH_ = A_Q_PATH_ + "/" + A_Q_REPORT_
 
 
-MOODLE_COURSE_ID = 475
+MOODLE_COURSE_ID = 483
 
 ## SUBMISSION FEAUTRE
 A_Q_SUB_ = A_Q_ + "_submissions.csv"
