@@ -41,6 +41,7 @@ int main ()
 		}
 		}
 		i++;
+		return 0;
 	}
 	keyf[26] = '\0';
 	//printf("%s\n", keyf);
@@ -55,6 +56,7 @@ int main ()
 		message[i] = temp;
 		i++;
 		scanf("%c", &temp);
+		break;
 	}
 	message[i] = '\0';
 	i = 0;
@@ -69,6 +71,7 @@ int main ()
 			hashfunction(keyf,message[i]);
 		}
 		i++;
+		break;
 	}
 	
 	return 0;

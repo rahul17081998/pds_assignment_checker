@@ -1,2 +1,2 @@
-10;~~INPUT:~~key = "eljuxhpwnyrdgtqkviszcfmabo"~~message = "zwx hnfx lqantp mnoeius ycgk vcnjrdb"~~~~OUTPUT:~~Decoded message: "the five boxing wizards jump quickly"~~;eljuxhpwnyrdgtqkviszcfmabo~~zwx hnfx lqantp mnoeius ycgk vcnjrdb~~
-10;~~INPUT:~~key = "the quick brown fox jumps over the lazy dog"~~message = "vkbs bs t suepuv"~~~~OUTPUT:~~Decoded message: "this is a secret"~~;the quick brown fox jumps over the lazy dog~~vkbs bs t suepuv~~
+10;~~INPUT:~~key = "eljuxhpwnyrdgtqkviszcfmabo"~~message = "zwx hnfx lqantp mnoeius ycgk vcnjrdb"~~~~OUTPUT:~~Decoded message: "the five boxing wizards jump quickly"~~;eljuxhpwnyrdgtqkviszcfmabo~~zwx hnfx lqantp mnoeius ycgk vcnjrdb
+10;~~INPUT:~~key = "the quick brown fox jumps over the lazy dog"~~message = "vkbs bs t suepuv"~~~~OUTPUT:~~Decoded message: "this is a secret"~~;the quick brown fox jumps over the lazy dog~~vkbs bs t suepuv
